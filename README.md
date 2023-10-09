@@ -1,7 +1,6 @@
 # Project Artificial Intelligence
 06/2023
 This artificial intelligence project was created by Mathieu OLEKSY and Ilias PETIT from scratch by our hands.
-PETIT Ilias
 
 /***********  LAUNCH CONSOLE/GRAPHICS INTERFACE ***********/
 
